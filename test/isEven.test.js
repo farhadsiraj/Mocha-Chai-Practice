@@ -1,10 +1,9 @@
 "use strict";
-
-const isEven = require("./isEven");
-
 const chai = require("chai");
 const expect = chai.expect;
 const should = require("chai").should();
+
+const isEven = require("../isEven");
 
 describe("isEven", () => {
   it("should return true when number is even", () => {
