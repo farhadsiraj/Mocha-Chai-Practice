@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.3.6",
+    "grunt": "^1.5.3",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha": "^1.2.0",
+    "grunt-mocha-test": "^0.13.3",
     "gulp": "^4.0.2",
     "gulp-mocha": "^8.0.0",
     "gulp-util": "^3.0.8",
