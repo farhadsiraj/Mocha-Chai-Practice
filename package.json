@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
     "grunt": "^1.5.3",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-mocha": "^1.2.0",
